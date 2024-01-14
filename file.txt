@@ -5,6 +5,4 @@ this is my first repo
 
 adding some information to the file
 
-trying webhooks concept in github and jenkins
-
-file successfully automated to the server
+deleting some info
