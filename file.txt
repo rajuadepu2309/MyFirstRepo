@@ -1,3 +1,6 @@
 hello GitHub
 
 this is my first repo
+
+
+adding some information to the file
